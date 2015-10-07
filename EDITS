@@ -1,0 +1,47 @@
+When I changed the list style to circle inside, the bullet points became hollow.
+When I changed the list style to circle outside, the list moved to the left.
+When I changed the list style to square, the bullet points turned to solid squares.
+none = the bullet points went away.
+2px red solid border = the border went across the whole bottom of the screen.
+padding = the space between the left border and the list went away, the list also seemed to move down.
+padding left 40 px = the list indented towards the right.
+delete padding left & make padding 0 = the spaces to the left and above and below the list went away.
+
+dashed black border = places a dashed black border around each item
+padding 10px = there's a space between each list item and the dashed border.
+width dashed border = the dashed border no longer takes up the whole screen
+margin = there is a space between the left hand side of the borders and between each item
+inline = each list item went horizontal and the red border went through them.
+block= the list item and the border went back to normal.
+inline-block = the list items went horizontal and one item was vertically under the first one, the red border was around all of them.
+
+float (columns)
+1. float both divs right= div 2 and div 1 are horizontally next to each other shifted towards the right(2 is first)
+2. float both divs left = div 1 is first followed by div 2 horizontally shifted to the left
+3. div 2 is on the left and div 1 is on the right
+4.  both divs are on the right side, test div 1 is wider and above test div 2
+5. 95%
+6. The left side of the box stays formatted and the rest of the text adjusts automatically
+7. When both the padding and margin settings are 3em, it throws off the format
+8. It created three columns.
+9. All three columns are equally sized
+10. the right column is longer than the other two
+11. the end two columns are longer and the middle one is shorter and wider
+
+
+
+
+position
+1. position = relative
+2. the box shifted left
+3. the box shifted right and is off the screen a little
+4. the box shifted downward and is off the screen
+5. the box shifted right and is still off the screen (at the bottom)
+6.the box is how it was when I first started
+7. position = absolute (the line of text outside of the box is covered)
+8. the box is moved all the way to the top of the page and is covering the instructions
+9. the box is moved all the way to the top right of the screen
+10. the box shifted left a little bit
+11.the box shifted down but is still shifted left from the right hand margin
+12. box went to the bottom of the page and there was no room to scroll down
+13. The box turned into a colum after messing with the width and margin values. 
